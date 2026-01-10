@@ -1,6 +1,7 @@
 DB_CONFIG = {
     "host": "localhost",
     "user": "root",
-    "password": "7272",
+    "password": "your_mysql_password",
     "database": "churn_analysis"
 }
+
